@@ -1,19 +1,19 @@
 <div align="center">
 
 ```
- ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███╗   ███╗ █████╗ ████████╗███████╗
-██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝████╗ ████║██╔══██╗╚══██╔══╝██╔════╝
-██║     ███████║█████╗  ██║     █████╔╝ ██╔████╔██║███████║   ██║   █████╗  
-██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  
-╚██████╗██║  ██║███████╗╚██████╗██║  ██╗██║ ╚═╝ ██║██║  ██║   ██║   ███████╗
- ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
+               ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███╗   ███╗ █████╗ ████████╗███████╗
+               ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝████╗ ████║██╔══██╗╚══██╔══╝██╔════╝
+               ██║     ███████║█████╗  ██║     █████╔╝ ██╔████╔██║███████║   ██║   █████╗  
+               ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  
+               ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗██║ ╚═╝ ██║██║  ██║   ██║   ███████╗
+                ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
-███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗
-██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝
-█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  
-██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  
-███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗
-╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
+                         ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗
+                         ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝
+                         █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  
+                         ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  
+                         ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗
+                         ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
 **Motor de xadrez em Java com Inteligência Artificial**
@@ -40,7 +40,7 @@ public class CheckmateEngine {
 }
 ```
 
-Checkmate Engine é um motor de xadrez desenvolvido em Java que une **estratégia e inteligência artificial**. Mais do que um jogo, é um laboratório de evolução técnica — construído para aprofundar conhecimentos em algoritmos, estruturas de dados e arquitetura de software.
+Checkmate Engine é um motor de xadrez desenvolvido em Java que une **estratégia e inteligência artificial**. Mais do que um jogo, é um laboratório de evolução técnica, construído para aprofundar conhecimentos em algoritmos, estruturas de dados e arquitetura de software.
 
 O motor utiliza **Minimax com poda Alpha-Beta** e **heurísticas de avaliação posicional** para tomar decisões de forma eficiente, simulando o raciocínio de um jogador real.
 
@@ -134,6 +134,6 @@ Desenvolvido por [Kauã Santos](https://github.com/kauannsantos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauannsantos)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantsdev@gmail.com)
 
-*"Mais do que um jogo — um laboratório de evolução técnica."*
+*"Mais do que um jogo, um laboratório de evolução técnica."*
 
 </div>
